@@ -5,3 +5,7 @@
 ##      add_subdirectory("./[submodule-name]")
 ## where [submodule-name] is the name of the submodule.
 ##
+
+message("\tCurrently empty.
+    Use this subdirectory for additional libraries/submodules."
+)
